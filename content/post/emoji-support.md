@@ -1,47 +1,49 @@
 ---
-title: Emoji Support
-date: 2019-03-05
+title: Mira lo que viene
+date: 2020-09-28
 hero: "/images/hero-3.jpg"
-excerpt: Guide to usage in Hugo
+excerpt: Mira lo que viene
 authors:
-  - Hugo Authors
+  - Hugo authors
 
 ---
 
-Emoji can be enabled in a Hugo project in a number of ways.
-<!--more-->
-The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
+**Mira lo que viene**
 
-To enable emoji globally, set `enableEmoji` to `true` in your site’s [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
+Las plataformas digitales se caracterizan por tener en sus contenidos
+“gravitones” que interactúan fuertemente y enganchan rápidamente a las masas,
+esto debido a su experiencia tecnológica que permite a las audiencias escoger la
+parrilla de “interés” y generar una dependencia casi psicológica que se desborda
+a diferentes escenarios sociales, en donde todas las conversaciones apuntan a la
+nueva temporada de la serie de turno.
 
+Estas plataformas, construyen perfiles de las audiencias, en donde sugieren
+nuevos contenidos y la interacción se convierte en una relación de poder, en
+donde la plataforma proporciona los productos a consumir, hasta utilizar el
+“criterio” de las masas para concluir los productos mencionados.
 
-<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
-<br>
+Los datos electrónicos conocidos como la “Big Data” han definido el mercado
+emergente y las estadísticas de datos se presentan en forma de líneas de
+tendencia, que permiten a las plataformas tener el control de las audiencias
+para generar una adicción más placentera en términos de entretenimiento.
 
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
+El contenido de las parrillas muta frente a cada narrativa tecnológica,
+generando un bombardeo agresivo que se instala en el inconsciente colectivo, y
+genera en la audiencia una identidad de cara al consumo. No obstante, la
+participación de los sujetos se hace evidente, en tanto que promueven esta falsa
+identidad a través de sus redes. Se conciben entonces activistas de causas que
+son instauradas por contenidos trans-mediaticos que reflejan el sentir y la
+incapacidad que se tiene frente a la amenaza expuesta anteriormente.
 
-***
+Las democracias occidentales han aprovechado este escenario para llegar a sus
+simpatizantes, utilizando la misma estrategia mediática del entretenimiento. A
+esto se refería Nietzsche en cuanto advertía que la cultura occidental está
+viciada desde su origen, porque el error más peligroso de todos, consiste en
+intentar e instaurar la racionalidad a toda costa, así sea a punta de la
+alienación del pensamiento. Esto se hace visible a partir del divertimiento, que
+no es otra cosa que una literatura de evasión con finísimos mensajes de
+conformidad.
 
-**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
-
-```css
-.emoji {
-font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
-}
-```
-
-{{< css.inline >}}
-<style>
-.emojify {
-	font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
-	font-size: 2rem;
-	vertical-align: middle;
-}
-@media screen and (max-width:650px) {
-    .nowrap {
-	display: block;
-	margin: 25px 0;
-}
-}
-</style>
-{{< /css.inline >}}
+Finalmente, es necesario propiciar una “resistencia mediática” desde el interior
+de nuestro pensamiento, sin olvidar los valores de la cooperación que permita
+reencontrar nuestra libertad sin distanciarnos de la verdad.
