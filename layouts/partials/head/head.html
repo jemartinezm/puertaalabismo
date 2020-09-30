@@ -8,18 +8,9 @@
     {{ $prism := resources.Get "css/prism.css" }}
     <link rel="stylesheet" href="{{ $prism.RelPermalink }}" />
     <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet">
+     {{ template "_internal/google_analytics.html" . }}
     {{ partial "seo/print.html" . }}
     {{ with .Params.forestry_instant_preview_id }}
       {{- safeHTML (printf "<meta property='forestry_instant_preview_id' content='%s'>" .) -}}
     {{ end -}}
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179295890-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-179295890-1');
-</script>
-
 </head>
