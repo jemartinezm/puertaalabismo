@@ -1,7 +1,6 @@
 baseurl = "/"
 title = "Puerta al abismo"
 theme = "hugo-theme-novela"
-googleAnalytics = "UA-179295890-1"
 
 [Params]
     mainSections = ["post"]
