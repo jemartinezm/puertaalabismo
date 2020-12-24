@@ -8,7 +8,7 @@ authors:
 
 ---
 
-**Mira lo que viene**
+**Mira lo que viene 2**
 
 Las plataformas digitales se caracterizan por tener en sus contenidos
 “gravitones” que interactúan fuertemente y enganchan rápidamente a las masas,
