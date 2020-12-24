@@ -1,5 +1,5 @@
 ---
-title: Mira lo que viene
+title: ¡Mira lo que viene!
 date: 2020-09-28
 hero: "/images/hero-3.jpg"
 excerpt: ¡Mira lo que viene!
